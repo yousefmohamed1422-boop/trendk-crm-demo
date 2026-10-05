@@ -1,0 +1,6 @@
+{
+  "name": "Horus Horizon - Tourism CRM & Operations",
+  "description": "Comprehensive enterprise tourism operations, CRM, booking engine, fleet management, and financial accounting platform with Arabic and English RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
